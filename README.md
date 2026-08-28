@@ -53,74 +53,22 @@ sensor-driven interaction, and the build infrastructure that keeps both shippabl
 
 ---
 
-## Selected Work
+## Where I Work in the Stack
 
-### RECLAIM — AI-Powered Recovery Coach
-`Flutter` · `Dart` · `on-device AI` · `Android + iOS`
-
-A recovery companion app that helps people break addictive behaviour patterns. An AI coach
-handles 24/7 conversational support, backed by streak tracking with a live timer, a
-multi-stage craving-intervention flow, a three-step emergency anti-relapse protocol,
-journaling with AI mood analysis, gamified habit replacement, and AI-generated weekly
-reports. Runs fully on-device. Shipped through a Codemagic CI pipeline for both platforms.
-
-### UWB Spatial Interaction with Third-Party Accessories
-`Swift` · `iOS` · `Nearby Interaction` · `Ultra-Wideband`
-
-An iOS app that pairs with third-party ultra-wideband accessories and continuously ranges
-their distance and direction relative to the device, built on Apple's Nearby Interaction
-framework and the U1/U2 chip. Extends the WWDC21 reference design with Camera Assistance
-(iOS 16+) for improved directional accuracy, plus accessory configuration handling and a
-Codemagic build pipeline.
-
-### Restaurant Order System — [`Tegrask/rest`](https://github.com/Tegrask/rest)
-`TypeScript` · `Next.js 16` · `React 19` · `Prisma` · `Tailwind`
-
-A full-stack QR-code ordering platform for restaurants. Guests scan a table code and order
-straight from their phone; staff work a live order board. Includes JWT session auth
-(`jose` + `bcryptjs`), a Prisma-managed relational schema with migrations and seeding, and
-an admin dashboard with Recharts-based sales analytics, table management, and menu CRUD.
-
-### Variscite i.MX8M BSP Layer
-`Yocto` · `BitBake` · `NXP i.MX8M`
-
-A Yocto Project BSP layer for Variscite i.MX8M system-on-modules (DART-MX8M, VAR-SOM-MX8M),
-covering kernel and U-Boot integration plus pre-configured minimal, Qt, and Wayland images.
-Supports the NXP i.MX8M Quad, Dual, and Nano variants.
-
-### Applied Yocto on Raspberry Pi 5
-`BitBake` · `CMake` · `C++` · `QML`
-
-Custom Yocto layers, recipes, and image definitions for the Raspberry Pi 5, including a
-Qt/QML application built and deployed as part of the generated image — an end-to-end pass
-from recipe to running board.
-
-> Repositories without a link are private. Happy to walk through the code on request.
-
----
-
-## Language Overview
-
-Measured across all my repositories, public and private, by source bytes:
-
-| Language | Share | Where |
-|---|---:|---|
-| Dart | 49.0 % | Flutter mobile apps |
-| Swift | 34.4 % | iOS / UWB |
-| TypeScript | 13.7 % | Next.js full-stack |
-| BitBake | 1.0 % | Yocto recipes & layers |
-| Shell | 0.6 % | Build & deploy scripts |
-| Batchfile | 0.6 % | Windows build tooling |
-| CMake | 0.3 % | Native build config |
-| JavaScript | 0.1 % | Web config & tooling |
-| CSS | 0.1 % | Styling |
-| C++ | 0.1 % | Embedded application code |
-| QML | < 0.1 % | Qt user interfaces |
-| Kotlin | < 0.1 % | Android platform channels |
-| C | < 0.1 % | Low-level integration |
-
-Byte share favours application code over configuration — the Yocto and CMake work carries
-far more weight in practice than its line count suggests.
+```
+   ╔══════════════════════════════════════════════════════════════╗
+   ║  APP           Flutter · Swift / iOS · Next.js · Qt / QML    ║
+   ╠══════════════════════════════════════════════════════════════╣
+   ║  INTELLIGENCE  on-device inference · UWB spatial ranging     ║
+   ╠══════════════════════════════════════════════════════════════╣
+   ║  SERVICES      REST APIs · Prisma · auth · CI pipelines      ║
+   ╠══════════════════════════════════════════════════════════════╣
+   ║  SYSTEM        Yocto · BitBake · U-Boot · Linux kernel       ║
+   ╠══════════════════════════════════════════════════════════════╣
+   ║  SILICON       NXP i.MX8M · Raspberry Pi 5 · UWB radio       ║
+   ╚══════════════════════════════════════════════════════════════╝
+              └───── I work across all five ─────┘
+```
 
 ---
 
