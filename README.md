@@ -12,9 +12,8 @@
 
 **Embedded Software Developer · AI Engineering & IT Student**
 
-I build software close to the hardware and close to the user — Yocto-based Linux BSPs for
-i.MX8M and Raspberry Pi boards, ultra-wideband spatial interaction on iOS, cross-platform
-mobile apps in Flutter, and full-stack TypeScript when a project needs a web face.
+I build software close to the hardware and close to the user — embedded Linux, mobile
+apps, and a web front end when a project needs one.
 
 Most of my work sits where embedded systems meet applied AI: on-device intelligence,
 sensor-driven interaction, and the build infrastructure that keeps both shippable.
