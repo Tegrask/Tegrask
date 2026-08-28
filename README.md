@@ -53,21 +53,35 @@ sensor-driven interaction, and the build infrastructure that keeps both shippabl
 
 ---
 
-## Where I Work in the Stack
+## Selected Work
+
+### RECLAIM — AI-Powered Recovery Coach
+`Flutter` · `Dart` · `on-device AI` · `Android + iOS`
+
+A recovery companion app built around a 24/7 conversational AI coach, with streak tracking,
+a multi-stage craving-intervention flow, journaling with AI mood analysis, and generated
+weekly reports. Runs fully on-device, shipped through a Codemagic pipeline for both platforms.
+
+### UWB Spatial Interaction with Third-Party Accessories
+`Swift` · `iOS` · `Nearby Interaction` · `Ultra-Wideband`
+
+An iOS app that pairs with third-party ultra-wideband accessories and continuously ranges
+their distance and direction, built on Apple's Nearby Interaction framework and the U1/U2
+chip — extended with Camera Assistance (iOS 16+) for improved directional accuracy.
+
+> Both repositories are private. Happy to walk through the code on request.
+
+---
 
 ```
-   ╔══════════════════════════════════════════════════════════════╗
-   ║  APP           Flutter · Swift / iOS · Next.js · Qt / QML    ║
-   ╠══════════════════════════════════════════════════════════════╣
-   ║  INTELLIGENCE  on-device inference · UWB spatial ranging     ║
-   ╠══════════════════════════════════════════════════════════════╣
-   ║  SERVICES      REST APIs · Prisma · auth · CI pipelines      ║
-   ╠══════════════════════════════════════════════════════════════╣
-   ║  SYSTEM        Yocto · BitBake · U-Boot · Linux kernel       ║
-   ╠══════════════════════════════════════════════════════════════╣
-   ║  SILICON       NXP i.MX8M · Raspberry Pi 5 · UWB radio       ║
-   ╚══════════════════════════════════════════════════════════════╝
-              └───── I work across all five ─────┘
+ █████╗ ██████╗  ██████╗ ██╗     ██████╗ 
+██╔══██╗██╔══██╗██╔═══██╗██║     ██╔══██╗
+███████║██████╔╝██║   ██║██║     ██║  ██║
+██╔══██║██╔══██╗██║   ██║██║     ██║  ██║
+██║  ██║██║  ██║╚██████╔╝███████╗██████╔╝
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═════╝ 
+
+     embedded · applied AI · shipped
 ```
 
 ---
