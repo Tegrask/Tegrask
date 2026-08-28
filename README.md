@@ -1,4 +1,14 @@
-# Arold
+```
+   █████████      ████████████         █████████      ███               ████████████   
+███         ███   ███         ███   ███         ███   ███               ███         ███
+███         ███   ███         ███   ███         ███   ███               ███         ███
+███████████████   ████████████      ███         ███   ███               ███         ███
+███         ███   ███      ███      ███         ███   ███               ███         ███
+███         ███   ███         ███   ███         ███   ███               ███         ███
+███         ███   ███         ███      █████████      ███████████████   ████████████   
+
+                  embedded systems  ·  applied AI  ·  things that ship
+```
 
 **Embedded Software Developer · AI Engineering & IT Student**
 
@@ -50,43 +60,3 @@ sensor-driven interaction, and the build infrastructure that keeps both shippabl
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
----
-
-## Selected Work
-
-### RECLAIM — AI-Powered Recovery Coach
-`Flutter` · `Dart` · `on-device AI` · `Android + iOS`
-
-A recovery companion app built around a 24/7 conversational AI coach, with streak tracking,
-a multi-stage craving-intervention flow, journaling with AI mood analysis, and generated
-weekly reports. Runs fully on-device, shipped through a Codemagic pipeline for both platforms.
-
-### UWB Spatial Interaction with Third-Party Accessories
-`Swift` · `iOS` · `Nearby Interaction` · `Ultra-Wideband`
-
-An iOS app that pairs with third-party ultra-wideband accessories and continuously ranges
-their distance and direction, built on Apple's Nearby Interaction framework and the U1/U2
-chip — extended with Camera Assistance (iOS 16+) for improved directional accuracy.
-
-> Both repositories are private. Happy to walk through the code on request.
-
----
-
-```
- █████╗ ██████╗  ██████╗ ██╗     ██████╗ 
-██╔══██╗██╔══██╗██╔═══██╗██║     ██╔══██╗
-███████║██████╔╝██║   ██║██║     ██║  ██║
-██╔══██║██╔══██╗██║   ██║██║     ██║  ██║
-██║  ██║██║  ██║╚██████╔╝███████╗██████╔╝
-╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═════╝ 
-
-     embedded · applied AI · shipped
-```
-
----
-
-## Currently
-
-Deepening the overlap between embedded systems and applied AI — on-device inference,
-UWB-driven spatial interaction, and reproducible Yocto builds for custom hardware.
